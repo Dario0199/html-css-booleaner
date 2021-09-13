@@ -1,0 +1,21 @@
+.container {
+    background-color: white;
+    width: 50%;
+    margin: 50px auto;
+}
+
+header {
+    background-color: cornflowerblue;
+    background-repeat: repeat;
+    height: 80px;
+    background-size: 200px 700px;
+    background-image: url('../html-css-booleaner/pattern.png');
+    
+}
+
+.img-logo {
+    height: 40px;
+    width: 100px;
+    padding-top: 35px;
+}
+
