@@ -31,3 +31,15 @@ header {
 .text2 {
     background-color: gold;
 }
+
+thead {
+    background-color: royalblue;
+}
+
+.table, td, th {
+    border-collapse: collapse;
+}
+
+.tb1, .tb3 {
+    background-color: lightskyblue;
+}
