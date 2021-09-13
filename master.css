@@ -14,15 +14,20 @@ header {
 }
 
 .img-logo {
-    height: 40px;
-    width: 100px;
-    padding-top: 35px;
+    height: 90px;
+    width: 180px;
+    padding-top: 10px;
+    margin-left: 10px;
 }
 
-span {
+.text1 {
     color: deepskyblue;
 }
 
 .description{
     color: dimgray;
+}
+
+.text2 {
+    background-color: gold;
 }
