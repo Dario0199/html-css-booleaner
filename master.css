@@ -38,8 +38,27 @@ thead {
 
 .table, td, th {
     border-collapse: collapse;
-}
+;
+}   
 
 .tb1, .tb3 {
     background-color: lightskyblue;
+}
+
+.img1 {
+    background-size: 250px 200px ;
+    background-repeat: no-repeat ;
+    background-image: url(../html-css-booleaner/monitor.jpg);
+    height: 300px;
+}
+
+.img2 {
+    background-size: 250px 20px ;
+    background-repeat: no-repeat ;
+    background-image: url(../html-css-booleaner/graph.jpg)
+    
+}
+
+h3 {
+    color: white;
 }
