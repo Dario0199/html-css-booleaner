@@ -6,11 +6,10 @@
 
 header {
     background-color: cornflowerblue;
-    background-repeat: repeat;
     height: 80px;
-    background-size: 200px 700px;
+    background-size: 36%;
     background-image: url('../html-css-booleaner/pattern.png');
-    
+    background-position: 70px 0;
 }
 
 .img-logo {
@@ -28,6 +27,19 @@ header {
     color: dimgray;
 }
 
+.description2 {
+    font-size: 12px;
+}
+
+p {
+    margin: 30px 0;
+}
+
+.ul {
+    margin: 0 0 30px;
+    padding-left: 16px;
+}
+
 .text2 {
     background-color: gold;
 }
@@ -36,27 +48,32 @@ thead {
     background-color: royalblue;
 }
 
-.table, td, th {
+table {
     border-collapse: collapse;
-;
 }   
+
+.last-width {
+    width: 50%;
+}
 
 .tb1, .tb3 {
     background-color: lightskyblue;
 }
 
-.img1 {
-    background-size: 250px 200px ;
-    background-repeat: no-repeat ;
-    background-image: url(../html-css-booleaner/monitor.jpg);
-    height: 300px;
+
+.img {
+    width: 200px;
+    height: 160px;
+    margin-bottom: 10px;
+    background-size: cover;
 }
 
-.img2 {
-    background-size: 250px 20px ;
-    background-repeat: no-repeat ;
-    background-image: url(../html-css-booleaner/graph.jpg)
-    
+#image-monitor {
+    background-image: url(../html-css-booleaner/monitor.jpg);
+}
+
+#image-graph {
+    background-image: url(../html-css-booleaner/graph.jpg);
 }
 
 h3 {
